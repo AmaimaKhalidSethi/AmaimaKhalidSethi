@@ -8,16 +8,12 @@ Cybersecurity undergraduate at COMSATS University Islamabad. I build security to
 
 I am a 5th-semester BS Cybersecurity student (expected graduation: 2028) with a focus on applied AI and security research. I am particularly interested in how large language models work under the hood and where they intersect with modern threat landscapes. Outside of coursework, I spend my time building tools I actually want to use and playing CTFs.
 
-I do not do frontend. My work lives in backend systems, AI integrations, and security tooling.
-
 ---
 
 ## Current Focus
 
 - LLM architecture research and its applications in cybersecurity
 - Building automated attack simulation and vulnerability analysis tooling
-- Competing in CTFs with team **`the_unknown`** across Hack The Box, pwn.college, TryHackMe, and PicoCTF
-- Honhaar Jawan Program and Kamyab Freelancer Program (AI, Cybersecurity, and Data Science tracks)
 
 ---
 
