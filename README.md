@@ -66,12 +66,9 @@ Painting and crocheting. Mostly as a reason to step away from the terminal.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaimaKhalidSethi&show_icons=true&hide_border=true&count_private=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default)
-
-<!-- Replace YOUR_USERNAME with your actual GitHub username in both URLs above -->
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaimaKhalidSethi&layout=compact&hide_border=true&theme=default)
 ---
 
 *Open to research collaborations, CTF team-ups, and security-focused project discussions.*
