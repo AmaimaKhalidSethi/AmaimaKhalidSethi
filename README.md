@@ -1,42 +1,81 @@
-# Hi, I am Amaima Khalid Sethi.
+# Amaima Khalid Sethi
 
-I am a Cybersecurity undergraduate (5th semester) at COMSATS University Islamabad. My technical focus is situated at the intersection of Artificial Intelligence and information security. I spend my time researching Large Language Model (LLM) architectures and building tools that apply AI to solve complex security, forensics, and intelligence challenges.
+Cybersecurity undergraduate at COMSATS University Islamabad. I build security tools, research LLM architectures, and compete in CTFs with my team. Most of my work sits at the backend — Python, APIs, and systems that are either breaking things or helping defend them.
 
-When I am not coding or researching, I am usually playing Capture The Flag (CTF) competitions to keep my offensive and defensive skills sharp.
+---
 
-## 🛠 Technical Skills
+## About
 
-**Cybersecurity & Forensics:** 
-* Network Analysis & Penetration Testing (Wireshark, Gophish)
-* Vulnerability Mapping & Digital Forensics
-* CTF Platforms: Hack The Box, pwn.college, TryHackMe, PicoCTF
+I am a 5th-semester BS Cybersecurity student (expected graduation: 2028) with a focus on applied AI and security research. I am particularly interested in how large language models work under the hood and where they intersect with modern threat landscapes. Outside of coursework, I spend my time building tools I actually want to use and playing CTFs.
 
-**Artificial Intelligence & Development:** 
-* Python (Primary Language)
-* LLM Engineering & Integration (Hugging Face, Gemini API, Llama-3, Gemma)
-* Database Management (MongoDB Atlas)
-* Development Tools (Antigravity, Git, GitHub Codespaces)
+I do not do frontend. My work lives in backend systems, AI integrations, and security tooling.
 
-*(Note: My focus is strictly on backend architecture, AI, and security—you won't find frontend frameworks like React here.)*
+---
 
-## 💻 Featured Projects
+## Current Focus
 
-* **Nexus-Security:** An AI-powered intelligence platform designed for managing and orchestrating Linux command-line tools.
-* **Flagvault:** A full-stack CTF writeup management system built with robust encryption to secure strategies and flags.
-* **CyGraph:** An automated attack-simulation framework that maps hosts and services across network topology vulnerability graphs.
-* **ForenScan:** A digital forensics utility engineered for binary signature validation and rapid incident triage.
-* **VoiceDigest:** A full-stack web application for microphone audio transcription and automated summary generation.
+- LLM architecture research and its applications in cybersecurity
+- Building automated attack simulation and vulnerability analysis tooling
+- Competing in CTFs with team **`the_unknown`** across Hack The Box, pwn.college, TryHackMe, and PicoCTF
+- Honhaar Jawan Program and Kamyab Freelancer Program (AI, Cybersecurity, and Data Science tracks)
 
-## 🎯 Current Focus
+---
 
-* Deepening my understanding of LLM architectures and their practical security applications.
-* Competing in CTFs with team the_unknown.
-* Participating in the Honhaar Jawan and Kamyab Freelancer programs for AI and Data Science.
+## Technical Stack
 
-## ⚡ Outside of Tech
+**Languages**
+- Python
+- Bash
 
-Stepping away from the screen is important. Offline, I spend my time painting, crocheting, and reading contemporary fiction and young adult fantasy. 
+**Security Tools**
+- Wireshark
+- Gophish
+- nmap
 
-## 📫 Let's Connect
+**Version Control & Environments**
+- Git, GitHub Codespaces
 
-I am always open to collaborating on CTFs, AI engineering projects, or security research. Feel free to explore my repositories or reach out.
+---
+
+## Featured Projects
+
+### Nexus-Security
+An AI-powered intelligence platform for discovering and managing Linux command-line security tools. Built to reduce the friction of juggling dozens of CLI utilities during active work.
+
+### Flagvault
+A full-stack CTF writeup management system with end-to-end encryption. Designed for teams who want a structured, private way to store and retrieve challenge documentation without using plaintext notes.
+
+### CyGraph
+An automated attack-simulation framework that models network topologies as vulnerability graphs. Surfaces exploitable paths and lateral movement opportunities across a given network layout.
+
+### ForenScan
+A digital forensics utility focused on binary signature validation and rapid incident triage. Built to assist with the early stages of an investigation where speed and accuracy both matter.
+
+### VoiceDigest
+A web application that captures microphone audio, transcribes it, and generates structured summaries using the Gemini API. Useful for recording sessions or meetings and extracting actionable content immediately after.
+
+---
+
+## CTF & Community
+
+- **Platforms:** Hack The Box, pwn.college, TryHackMe, PicoCTF
+
+---
+
+## Outside of Tech
+
+Painting and crocheting. Mostly as a reason to step away from the terminal.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default)
+
+<!-- Replace YOUR_USERNAME with your actual GitHub username in both URLs above -->
+
+---
+
+*Open to research collaborations, CTF team-ups, and security-focused project discussions.*
