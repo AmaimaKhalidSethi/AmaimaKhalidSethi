@@ -1,12 +1,21 @@
 # Amaima Khalid Sethi
 
-Cybersecurity undergraduate at COMSATS University Islamabad. I build security tools, research LLM architectures, and compete in CTFs with my team. Most of my work sits at the backend — Python, APIs, and systems that are either breaking things or helping defend them.
-
 ---
 
 ## About
 
-I am a 5th-semester BS Cybersecurity student (expected graduation: 2028) with a focus on applied AI and security research. I am particularly interested in how large language models work under the hood and where they intersect with modern threat landscapes. Outside of coursework, I spend my time building tools I actually want to use and playing CTFs.
+Security research and AI systems engineering focused on understanding and modeling how computational systems behave under normal and adversarial conditions.
+
+Work lies at the intersection of cybersecurity, applied machine learning, and systems engineering, with emphasis on analyzing software behavior, identifying vulnerabilities, and building intelligent tools that assist in security analysis and automation.
+
+Security research interests include web application security, digital forensics, network analysis, and vulnerability modeling through structured and automated approaches. This includes CTF-style problem solving as a practical environment for testing system assumptions and failure modes.
+
+On the AI systems side, exploration focuses on large language models, agentic workflows, and retrieval-based architectures, particularly in understanding internal mechanisms and applying them to real-world security and automation use cases.
+
+Technical work is primarily implemented in Python and JavaScript, with systems built around APIs, backend tooling, and data-driven analysis pipelines.
+
+The core direction of work is the integration of security reasoning with AI-assisted systems, aiming to build tools that not only detect or simulate vulnerabilities but also reason about system behavior at scale.
+
 
 ---
 
