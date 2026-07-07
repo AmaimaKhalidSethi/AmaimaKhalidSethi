@@ -92,11 +92,8 @@ My interests include:
 # GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmaimaKhalidSethi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaimaKhalidSethi&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmaimaKhalidSethi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaimaKhalidSethi&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -136,14 +133,6 @@ Co-developed a physical enterprise network simulation reproducing a complete int
 - Detection engineering validation
 
 The project bridges offensive tradecraft with defensive visibility to study attacker behavior from a Blue Team perspective.
-
----
-
-### **Nexus-Security**
-
-An AI-powered intelligence platform that streamlines the discovery, categorization, and management of Linux command-line security tools.
-
-Designed to reduce analyst search time while improving tool selection through intelligent retrieval.
 
 ---
 
