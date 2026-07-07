@@ -73,12 +73,4 @@ Painting and crocheting. Mostly as a reason to step away from the terminal.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaimaKhalidSethi&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaimaKhalidSethi&layout=compact&hide_border=true&theme=radical)
-
----
-
 *Open to research collaborations, CTF team-ups, and security-focused project discussions.*
