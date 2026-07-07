@@ -1,76 +1,205 @@
+<div align="center">
+
 # Amaima Khalid Sethi
 
----
+### Cybersecurity Researcher • Blue Team Analyst • AI Systems Engineer
 
-## About
+Building secure systems through defensive security, applied machine learning, and systems engineering.
 
-Security research and AI systems engineering focused on understanding and modeling how computational systems behave under normal and adversarial conditions.
-
-Work lies at the intersection of cybersecurity, applied machine learning, and systems engineering, with emphasis on analyzing software behavior, identifying vulnerabilities, and building intelligent tools that assist in security analysis and automation.
-
-Security research interests include web application security, digital forensics, network analysis, and vulnerability modeling through structured and automated approaches. This includes CTF-style problem solving as a practical environment for testing system assumptions and failure modes.
-
-On the AI systems side, exploration focuses on large language models, agentic workflows, and retrieval-based architectures, particularly in understanding internal mechanisms and applying them to real-world security and automation use cases.
-
-Technical work is primarily implemented in Python and JavaScript, with systems built around APIs, backend tooling, and data-driven analysis pipelines.
-
-The core direction of work is the integration of security reasoning with AI-assisted systems, aiming to build tools that not only detect or simulate vulnerabilities but also reason about system behavior at scale.
-
+I focus on understanding *why* systems behave the way they do before designing solutions for them. My work spans detection engineering, AI pipelines, digital forensics, and infrastructure, with an emphasis on data quality, reproducibility, and systems-level reasoning.
 
 ---
 
-## Current Focus
+[![GitHub](https://img.shields.io/badge/GitHub-AmaimaKhalidSethi-181717?style=for-the-badge&logo=github)](https://github.com/AmaimaKhalidSethi)
 
-- LLM architecture research and its applications in cybersecurity
-- Building automated attack simulation and vulnerability analysis tooling
-
----
-
-## Technical Stack
-
-**Languages**
-- Python
-- Bash
-
-**Security Tools**
-- Wireshark
-- Gophish
-- nmap
-
-**Version Control & Environments**
-- Git, GitHub Codespaces
+</div>
 
 ---
 
-## Featured Projects
+# About
 
-### Nexus-Security
-An AI-powered intelligence platform for discovering and managing Linux command-line security tools. Built to reduce the friction of juggling dozens of CLI utilities during active work.
+I work at the intersection of **Blue Team Operations**, **Artificial Intelligence**, and **Systems Engineering**.
 
-### Flagvault
-A full-stack CTF writeup management system with end-to-end encryption. Designed for teams who want a structured, private way to store and retrieve challenge documentation without using plaintext notes.
+My research philosophy is simple:
 
-### CyGraph
-An automated attack-simulation framework that models network topologies as vulnerability graphs. Surfaces exploitable paths and lateral movement opportunities across a given network layout.
+> Deep understanding is more valuable than memorizing implementation steps. Better data consistently outperforms bigger models. Every configuration should be explainable rather than blindly replicated.
 
-### ForenScan
-A digital forensics utility focused on binary signature validation and rapid incident triage. Built to assist with the early stages of an investigation where speed and accuracy both matter.
+My interests include:
 
-### VoiceDigest
-A web application that captures microphone audio, transcribes it, and generates structured summaries using the Gemini API. Useful for recording sessions or meetings and extracting actionable content immediately after.
-
----
-
-## CTF & Community
-
-- **Platforms:** Hack The Box, pwn.college, TryHackMe, PicoCTF
+- Detection Engineering
+- Security Operations Centers (SOC)
+- Digital Forensics
+- Applied Machine Learning
+- Retrieval-Augmented Generation (RAG)
+- AI Systems
+- Linux Systems Engineering
+- Offensive Security Research
 
 ---
 
-## Outside of Tech
+# Technical Stack
 
-Painting and crocheting. Mostly as a reason to step away from the terminal.
+## Security & Blue Team
+
+<p>
+
+![](https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![](https://img.shields.io/badge/Digital_Forensics-2C3E50?style=for-the-badge)
+![](https://img.shields.io/badge/Honeypots-8E44AD?style=for-the-badge)
+![](https://img.shields.io/badge/File_Integrity_Monitoring-16A085?style=for-the-badge)
+
+</p>
 
 ---
 
-*Open to research collaborations, CTF team-ups, and security-focused project discussions.*
+## AI & Machine Learning
+
+<p>
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
+![](https://img.shields.io/badge/Large_Language_Models-1F2937?style=for-the-badge)
+![](https://img.shields.io/badge/Deep_Neural_Networks-2563EB?style=for-the-badge)
+![](https://img.shields.io/badge/Retrieval_Augmented_Generation-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Supervised_Fine_Tuning-DC2626?style=for-the-badge)
+![](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</p>
+
+---
+
+## Systems & Development
+
+<p>
+
+![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge)
+![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmaimaKhalidSethi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaimaKhalidSethi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+### **SOC Operations & Detection Engineering**
+
+Designed and deployed a complete LAN-based Security Operations Center using **Wazuh**, **Ubuntu**, **Kali Linux**, and **Windows 10** endpoints. Developed custom XML detection rules, correlated cross-platform security events, and implemented automated brute-force mitigation using native **iptables** active responses.
+
+---
+
+### **Advanced AI Pipelines**
+
+Developed production-oriented machine learning workflows for Amazon product price prediction, benchmarking statistical baselines against **Random Forest**, **XGBoost**, and specialized local Deep Neural Networks.
+
+Designed modular Retrieval-Augmented Generation pipelines featuring:
+
+- Semantic retrieval
+- Intelligent chunking
+- Query rewriting
+- Embedding optimization
+- Evaluation metrics
+- Context-aware inference
+
+---
+
+### **The Insider Pivot**
+
+Co-developed a physical enterprise network simulation reproducing a complete intrusion lifecycle:
+
+- Initial foothold
+- Credential interception
+- NTLM relay
+- Lateral movement
+- Honeypot interaction
+- Detection engineering validation
+
+The project bridges offensive tradecraft with defensive visibility to study attacker behavior from a Blue Team perspective.
+
+---
+
+### **Nexus-Security**
+
+An AI-powered intelligence platform that streamlines the discovery, categorization, and management of Linux command-line security tools.
+
+Designed to reduce analyst search time while improving tool selection through intelligent retrieval.
+
+---
+
+### **Flagvault**
+
+A secure, full-stack platform for collaborative Capture The Flag documentation.
+
+Features end-to-end encrypted writeup storage designed for security teams requiring confidentiality while collaborating during competitions.
+
+---
+
+### **CyGraph**
+
+An automated attack-simulation framework that models enterprise infrastructures as vulnerability graphs.
+
+The project focuses on understanding attack paths, privilege escalation opportunities, and defensive prioritization through graph-based security analysis.
+
+---
+
+# Research Interests
+
+- Detection Engineering
+- AI for Defensive Security
+- Retrieval-Augmented Generation
+- Large Language Models
+- Digital Forensics
+- SIEM Engineering
+- Threat Detection
+- Vulnerability Graph Analysis
+- Network Defense
+- Linux Systems
+- Applied Machine Learning
+
+---
+
+# Security Practice
+
+I continuously improve practical skills through structured security research and hands-on labs.
+
+Current platforms include:
+
+- Hack The Box
+- pwn.college
+- TryHackMe
+- PicoCTF
+
+---
+
+# Beyond Engineering
+
+Outside technical work, I enjoy painting and crocheting. Both provide a deliberate contrast to analytical problem solving and help maintain a balance between creative thinking and systems engineering.
+
+---
+
+<div align="center">
+
+*"The objective is not simply to make systems work. The objective is to understand why they work, why they fail, and how to engineer them to be resilient."*
+
+</div>
